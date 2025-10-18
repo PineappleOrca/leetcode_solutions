@@ -15,6 +15,4 @@ def mergeAlternately(word1, word2):
         my_string = my_string + word2
     return my_string
 
-my_string = 'Marina'
-my_string2 = 'Kevin'
 print(mergeAlternately(my_string, my_string2))
