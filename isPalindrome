@@ -1,6 +1,0 @@
-def isPalindrome(s):
-    return 0
-
-my_string = "A man, a plan, a canal: Panama"
-test_string = my_string.strip("',/\n")
-print(test_string)
