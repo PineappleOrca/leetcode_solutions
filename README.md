@@ -1,4 +1,4 @@
 # leetcode_solutions
-my answers for the leetcode questions 
-other test commit
-test commit from remote hehe setup issues 
+My answers to Leetcode questions
+
+Aiming to improve my DSA + programming skills in both Python + C , maybe others to follow down the line 
